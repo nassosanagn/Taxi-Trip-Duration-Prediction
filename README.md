@@ -4,7 +4,9 @@ In this competition, Kaggle is challenging you to build a model that predicts th
 
 The competition dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of this playground competition. Based on individual trip attributes, participants should predict the duration of each trip in the test set.
 
-## Data Fields
+## Project Description
+
+### Data Fields
 
 | Data Fields        | Meaning | 
 | :----------------: | :------ | 
@@ -21,13 +23,11 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 | store_and_fwd_flag | This flag indicates whether the trip record was held in vehicle memory before sending to the vendor because the vehicle did not have a connection to the server - Y=store and forward; N=not a store and forward trip     | 
 | trip_duration      | duration of the trip in seconds     | 
 
-## File descriptions
+### File descriptions
 
 - train.csv - the training set (contains 1458644 trip records)
 - test.csv - the testing set (contains 625134 trip records)
 - target.csv - this set contains the actual trip durations (used for testing the model)
-
-## Project Description
 
 ### 1. Data Analysis
 
