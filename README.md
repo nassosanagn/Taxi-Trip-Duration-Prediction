@@ -36,8 +36,7 @@ In this part of the project, I have done some preprocessing by removing the outl
 
 ### 2. Clustering and trip duration prediction
 
-In this part of the project I have used K-Means clustering and the elbow method to find the optimal number of clusters. 
+In this part of the project I have used K-Means clustering and the elbow method to find the optimal number of clusters. For the trip duration prediction I used RandomForestRegressor from the sklearn library. Also, by using GridSearchCV I managed to increase the model's accuracy by finding the best possible set of parameters. Finally I found the performance of the model by calculating the MAE (Mean Absolute Error) and MSE (Mean Square Error). 
 
-![image](https://user-images.githubusercontent.com/79266097/177155306-856f34c2-c699-4f3e-915c-980544abf995.png)
 
 ### 3. Bonus
