@@ -29,6 +29,11 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 
 ## Project Description
 
-### Data Analysis
+### 1. Data Analysis
 
-#### 1) Remove data outliers
+In this part of the project I have done some preprocessing by removing the outliers out of the train and test data sets. Also, I have added new columns to better describe the each trip, including the day period, the day's name, the month, year, hour etc. I have created some histograms, scatter plots and diagrams to display useful information from the data including busiest pickup days, the trips per day period, the average trip duration per day of the week etc. Finally, I calculated the manhattan distance between each pickup and dropoff point in order to increase dramatically the model's accuracy in predicting the total ride duration in the next part of the project.
+
+
+### 2. Clustering and trip duration prediction
+
+### 3. Bonus
