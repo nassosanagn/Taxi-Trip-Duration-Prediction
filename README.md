@@ -26,3 +26,9 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 - train.csv - the training set (contains 1458644 trip records)
 - test.csv - the testing set (contains 625134 trip records)
 - target.csv - this set contains the actual trip durations (used for testing the model)
+
+## Project Description
+
+### Data Analysis
+
+#### 1) Remove data outliers
