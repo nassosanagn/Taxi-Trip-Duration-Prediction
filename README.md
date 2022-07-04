@@ -20,3 +20,9 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 | dropoff_latitude     | the latitude where the meter was disengaged     | 
 | store_and_fwd_flag | This flag indicates whether the trip record was held in vehicle memory before sending to the vendor because the vehicle did not have a connection to the server - Y=store and forward; N=not a store and forward trip     | 
 | trip_duration      | duration of the trip in seconds     | 
+
+## File descriptions
+
+- train.csv - the training set (contains 1458644 trip records)
+- test.csv - the testing set (contains 625134 trip records)
+- target.csv - this set contains the actual trip durations (used for testing the model)
