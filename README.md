@@ -6,12 +6,10 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 
 
 
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+| Data Fields | Meaning | 
+| :-----:     | :-:     | 
+| id          | a unique identifier for each trip     | 
+| Attempt     | #1      | 
+| Seconds     | 301     | 
+| Attempt     | #1      | 
+| Seconds     | 301     | 
