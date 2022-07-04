@@ -40,3 +40,5 @@ In this part of the project, I have used K-Means clustering and the elbow method
 
 
 ### 3. Bonus
+
+In the bonus part of this assignment, I have created a New York city map displaying all the pickup points, using the folium library. Moreover, I have created more graphical representations and features (for example a new label that indicates if the trip happened on a weekend) to extract more conclusions from the data.
