@@ -7,7 +7,7 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 
 
 | Data Fields        | Meaning | 
-| :----------------: | :-:     | 
+| :----------------: | :------ | 
 | id                 | a unique identifier for each trip     | 
 | vendor_id          | a code indicating the provider associated with the trip record      | 
 | pickup_datetime    | date and time when the meter was engaged     | 
